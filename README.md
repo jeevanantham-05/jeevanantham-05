@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**jeevanantham-05/jeevanantham-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jeevanantham I
+Developer in progress. Building projects and learning in public.
 
-Here are some ideas to get you started:
+🔹 Aspiring Embedded Developer | C | DSA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects:
+- Inverted Search (C, Hashing)
+- APC - Arbitrary Precision Calculator
+- C-Projects - Address Book, Steganography, MP3 Tag Reader
+
+LeetCode: mr_jeeva_05 | Active Problem Solver in C
+GitHub: jeevanantham-05 | Bangalore, India
