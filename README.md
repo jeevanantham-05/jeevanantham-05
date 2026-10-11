@@ -13,7 +13,7 @@
 - 🧠 Solving problems on **LeetCode** as `mr_jeeva_05`
 - 🎯 Goal: **Crack Embedded Role in 2026**
 - 📍 Based in **Bangalore, India** - Open to opportunities
-- ⚙️ Ask me about **Pointers, Hashing, Bitwise Ops**
+
 
 ### 🛠️ My Arsenal
 
@@ -43,6 +43,6 @@
 
 <p align="center">Let's connect and build something low-level! 🚀</p>
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jeeva05jeeva"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://leetcode.com/mr_jeeva_05"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
