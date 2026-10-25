@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+![Banner](./image_20261025_102543.webp)
 
 Hi 👋, I'm Jeevanantham
 ...
