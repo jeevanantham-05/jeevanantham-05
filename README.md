@@ -33,6 +33,7 @@
 | 🧮 **APC Calculator** | Handles 1000+ digit numbers |
 | 🖼️ **Steganography** | Hides data inside images (LSB) |
 | 📒 **Address Book** | File handling + Structures |
+| 🎵 **MP3 Tag Reader** | Parses ID3 tags - Reads MP3 metadata using binary I/O |
 
 ### 📈 GitHub Stats
 <p align="center">
