@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jeevanantham</h1>
-<h3 align="center">I turn Coffee ☕ into C Code & Embedded Solutions</h3>
+![Banner](./banner.png)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF7F&center=true&vCenter=true&width=435&lines=Aspiring+Embedded+Developer;DSA+Enthusiast+%7C+C+Lover;Building+Low-Level+Magic!" alt="Typing SVG" />
-</p>
-
----
+Hi 👋, I'm Jeevanantham
+...
 
 ### ⚡ What I'm up to?
 
